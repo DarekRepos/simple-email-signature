@@ -7,7 +7,7 @@
 ## Usage
 
 
-Use [this](https://github.com/DarekRepos/simple-email-signature/src/signature.html) file to create HTML email signature.
+Use [this](https://github.com/DarekRepos/simple-email-signature/signature.html) file to create HTML email signature.
 
 ## Preview
 
@@ -17,4 +17,4 @@ Because some email providers or mobile devices don't display images by default, 
 
 ## Demo
 
-Click [here](https://github.com/DarekRepos/simple-email-signature/src/signature.html) to view the live demo.
+Click [here](https://darekrepos.github.io/simple-email-signature/) to view the live demo.
