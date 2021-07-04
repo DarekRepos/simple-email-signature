@@ -7,7 +7,7 @@
 ## Usage
 
 
-Use [this](https://github.com/vinitshahdeo/Email-Signature-Template/) repository to create HTML email signature.
+Use [this](https://vinitshahdeo.github.io/Email-Signature-Template/src/signature.html) file to create HTML email signature.
 
 ## Preview
 
