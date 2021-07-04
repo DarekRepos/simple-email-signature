@@ -7,7 +7,7 @@
 ## Usage
 
 
-Use [this](https://github.com/DarekRepos/simple-email-signature/signature.html) file to create HTML email signature.
+Use [this](https://github.com/DarekRepos/simple-email-signature/blob/main/gmail-signature-template.html) file to create HTML email signature.
 
 ## Preview
 
