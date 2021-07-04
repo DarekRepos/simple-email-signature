@@ -8,14 +8,10 @@ This is simple email signature. Here's an simple eye-catching HTML email signatu
 
 Use [this](https://github.com/DarekRepos/simple-email-signature/blob/main/gmail-signature-template.html) file to create HTML email signature.
 
-This is simple email signature. Here's an simple eye-catching HTML email signature.
-
-
-
 Because some email providers or mobile devices don't display images by default, email signature has a text block below the image to include a typed version of picture name
 
 ## Preview
-<img src=".docs/preview.png" height="10%" width="30%">
+<img src=".docs\img\preview-email-template.png" height="10%" width="30%">
 
 
 ## Demo
