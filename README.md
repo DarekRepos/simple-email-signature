@@ -1,6 +1,7 @@
 # simple-email-signature
 
-[![email](https://img.shields.io/static/v1.svg?label=Email&message=Signature&color=grey&logo=gmail&style=flat&logoColor=white&colorA=critical)](https://github.com/DarekRepos/simple-email-signature)[![pages-build-deployment](https://github.com/DarekRepos/simple-email-signature/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/DarekRepos/simple-email-signature/actions/workflows/pages/pages-build-deployment)
+[![email](https://img.shields.io/static/v1.svg?label=Email&message=Signature&color=grey&logo=gmail&style=flat&logoColor=white&colorA=critical)](https://github.com/DarekRepos/simple-email-signature)
+[![build deployment](https://github.com/DarekRepos/simple-email-signature/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/DarekRepos/simple-email-signature/actions/workflows/pages/pages-build-deployment)
 
 
 
