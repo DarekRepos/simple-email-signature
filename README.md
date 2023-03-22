@@ -21,6 +21,6 @@ Annother simple e-mail signature template
 
 Click [here](https://darekrepos.github.io/simple-email-signature/) to view the live demo.
 
-License
+## License
 
 This repo available under [the MIT license](https://github.com/DarekRepos/simple-email-signature/blob/main/LICENSE).
